@@ -19,7 +19,10 @@
 [公共技术点之View 事件传递](http://www.codekk.com/open-source-project-analysis/detail/Android/Trinea/View%20%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92) | 
 
 ### 后续
-我们会分析更多开源库的源码，会将类似开源库进行对比介绍优劣及使用场景，会将这个 Star 近 6k 的 Android 开源汇总项目和这个源码解析项目结合起来，做到主要开源库都有对应分析文档并维护。  
-![opa.png](op4.png)  
-![op.png](op3.png)  
+* 我们会分析更多开源库的源码  
+* 我们会会将类似开源库进行对比介绍优劣及使用场景  
+* 我们会将这个 Star 近 6k 的`Android 开源汇总项目`和这个`源码解析项目`结合起来，做到主要开源库都有对应分析文档并维护。  
+![opa.png](op6.png)  
+![op.png](op5.png)  
+
 #### 我们相信在开源库越来越繁多的情况下，开源库的使用也会越来越好。
