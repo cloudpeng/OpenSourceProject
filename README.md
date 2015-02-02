@@ -1,5 +1,5 @@
  
-### 开源项目源码分析第一期
+### 开源项目源码分析第一期成果
 分析文档 | 介绍 
 :------------- | :------------- 
 [Volley 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/grumoon/Volley%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | Google 官方推出的 Android 网络数据传输框架
@@ -15,9 +15,11 @@
 [公共技术点之Java 动态代理](http://codekk.com/open-source-project-analysis/detail/Android/Caij/Java%20%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86) | 
 [公共技术点之View 绘制流程](http://codekk.com/open-source-project-analysis/detail/Android/lightSky/View%20%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B) | 
 [公共技术点之Java 注解 Annotation](http://codekk.com/open-source-project-analysis/detail/Android/Trinea/Java%20%E6%B3%A8%E8%A7%A3%20Annotation) | 
+[公共技术点之依赖注入](http://www.codekk.com/open-source-project-analysis/detail/Android/%E6%89%94%E7%89%A9%E7%BA%BF/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5) | 
+[公共技术点之View 事件传递](http://www.codekk.com/open-source-project-analysis/detail/Android/Trinea/View%20%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92) | 
 
 ### 后续
 我们会分析更多开源库的源码，会将类似开源库进行对比介绍优劣及使用场景，会将这个 Star 近 6k 的 Android 开源汇总项目和这个源码解析项目结合起来，做到主要开源库都有对应分析文档并维护。  
-![op.png](op3.png)  
 ![opa.png](op4.png)  
+![op.png](op3.png)  
 #### 我们相信在开源库越来越繁多的情况下，开源库的使用也会越来越好。
