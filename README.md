@@ -17,6 +17,7 @@
 [公共技术点之Java 注解 Annotation](http://codekk.com/open-source-project-analysis/detail/Android/Trinea/Java%20%E6%B3%A8%E8%A7%A3%20Annotation) | 
 
 ### 后续
-我们会分析更多开源库的源码，会将类似开源库进行对比介绍优劣及使用场景，会将这个 Star 过 6k 的 Android 开源汇总项目和这个源码解析项目结合起来，做到主要开源库都有对应分析文档并维护。  
-
+我们会分析更多开源库的源码，会将类似开源库进行对比介绍优劣及使用场景，会将这个 Star 近 6k 的 Android 开源汇总项目和这个源码解析项目结合起来，做到主要开源库都有对应分析文档并维护。  
+![op.png](op.png)  
+![opa.png](opa1.png)  
 #### 我们相信在开源库越来越繁多的情况下，开源库的使用也会越来越好。
