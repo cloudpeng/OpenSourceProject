@@ -1,9 +1,9 @@
  
-### 开源项目源码分析第一期成果
+### 开源项目源码解析第一期成果
 分析文档 | 介绍 
 :------------- | :------------- 
 [Volley 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/grumoon/Volley%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | Google 官方推出的 Android 网络数据传输框架
-[Universal Image Loader 源码分析](http://codekk.com/open-source-project-analysis/detail/Android/huxian99/Android%20Universal%20Image%20Loader%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90) | 使用最广泛的 Android 图片缓存
+[Universal Image Loader 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/huxian99/Android%20Universal%20Image%20Loader%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90) | 使用最广泛的 Android 图片缓存
 [Dagger 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/%E6%89%94%E7%89%A9%E7%BA%BF/Dagger%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | 堪与 Guice 比肩的依赖注入框架
 [EventBus 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/Trinea/EventBus%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | 与 Otto 为 Android 端使用最广泛的事件发布/订阅框架
 [xUtils 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/Caij/xUtils%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | 包含网络请求、图片缓存、数据库 ORM等的工具库
@@ -22,8 +22,8 @@
 * 我们会分析更多开源库的源码  
 * 我们会将类似开源库进行对比，介绍优劣及适用场景  
  
-#### 我们会将这个 Star 近 6k 的`Android 开源汇总项目`和`源码解析项目`结合起来  
-#### 做到主要开源库都有对应源码原理分析文档并维护。 
+#### 我们会将 Star 近 6K 的`Android 开源汇总项目`和这个`源码解析项目`结合起来  
+#### 做到主要开源库都有对应原理解析文档并维护。 
 
 ![opa.png](1.jpeg)  
 ![op.png](2.jpeg)  
