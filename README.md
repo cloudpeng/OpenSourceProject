@@ -4,7 +4,7 @@
 :------------- | :------------- 
 [Volley 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/grumoon/Volley%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | Google 官方推出的 Android 网络数据传输框架
 [Universal Image Loader 源码分析](http://codekk.com/open-source-project-analysis/detail/Android/huxian99/Android%20Universal%20Image%20Loader%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90) | 使用最广泛的 Android 图片缓存
-[Dagger 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/%E6%89%94%E7%89%A9%E7%BA%BF/Dagger%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | 堪与 Guava 比肩的依赖注入框架，Butter Knife 的原型
+[Dagger 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/%E6%89%94%E7%89%A9%E7%BA%BF/Dagger%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | 堪与 Guice 比肩的依赖注入框架
 [EventBus 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/Trinea/EventBus%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | 与 Otto 为 Android 端最受欢迎的两个事件传递框架
 [xUtils 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/Caij/xUtils%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | 包含网络请求、图片缓存、数据库 ORM等的工具库
 [ViewPagerindicator 源码解析](http://codekk.com/open-source-project-analysis/detail/Android/lightSky/ViewPagerindicator%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90) | 使用最广泛的 ViewPager 界面导航指示器
